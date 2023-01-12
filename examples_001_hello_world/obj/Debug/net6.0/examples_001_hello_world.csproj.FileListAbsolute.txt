@@ -1,0 +1,15 @@
+/Users/asda/Desktop/REP_GIT/examples/examples_001_hello_world/bin/Debug/net6.0/examples_001_hello_world
+/Users/asda/Desktop/REP_GIT/examples/examples_001_hello_world/bin/Debug/net6.0/examples_001_hello_world.deps.json
+/Users/asda/Desktop/REP_GIT/examples/examples_001_hello_world/bin/Debug/net6.0/examples_001_hello_world.runtimeconfig.json
+/Users/asda/Desktop/REP_GIT/examples/examples_001_hello_world/bin/Debug/net6.0/examples_001_hello_world.dll
+/Users/asda/Desktop/REP_GIT/examples/examples_001_hello_world/bin/Debug/net6.0/examples_001_hello_world.pdb
+/Users/asda/Desktop/REP_GIT/examples/examples_001_hello_world/obj/Debug/net6.0/examples_001_hello_world.csproj.AssemblyReference.cache
+/Users/asda/Desktop/REP_GIT/examples/examples_001_hello_world/obj/Debug/net6.0/examples_001_hello_world.GeneratedMSBuildEditorConfig.editorconfig
+/Users/asda/Desktop/REP_GIT/examples/examples_001_hello_world/obj/Debug/net6.0/examples_001_hello_world.AssemblyInfoInputs.cache
+/Users/asda/Desktop/REP_GIT/examples/examples_001_hello_world/obj/Debug/net6.0/examples_001_hello_world.AssemblyInfo.cs
+/Users/asda/Desktop/REP_GIT/examples/examples_001_hello_world/obj/Debug/net6.0/examples_001_hello_world.csproj.CoreCompileInputs.cache
+/Users/asda/Desktop/REP_GIT/examples/examples_001_hello_world/obj/Debug/net6.0/examples_001_hello_world.dll
+/Users/asda/Desktop/REP_GIT/examples/examples_001_hello_world/obj/Debug/net6.0/refint/examples_001_hello_world.dll
+/Users/asda/Desktop/REP_GIT/examples/examples_001_hello_world/obj/Debug/net6.0/examples_001_hello_world.pdb
+/Users/asda/Desktop/REP_GIT/examples/examples_001_hello_world/obj/Debug/net6.0/examples_001_hello_world.genruntimeconfig.cache
+/Users/asda/Desktop/REP_GIT/examples/examples_001_hello_world/obj/Debug/net6.0/ref/examples_001_hello_world.dll
